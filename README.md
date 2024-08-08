@@ -1,7 +1,13 @@
 # Для запуска проекта:
-npm i
-npm start on port 3000
 
+```js
+npm i
+```
+
+```js
+npm start
+```
+ on port 3000
 
 
 # url: /
