@@ -1,13 +1,11 @@
-# Для запуска проекта:
-
+#Для запуска проекта надо установить зависимости как на backend так и frontend, после чего подключить postgres 
 ```js
-npm i
+npm install
 ```
-
 ```js
-npm start
+npm run dev //backend
+npm start //frontend
 ```
- on port 3000
 
 
 # url: /
